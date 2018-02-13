@@ -1,0 +1,21 @@
+.green-text {
+  color: green;
+}
+.white-text {
+  color: white;
+}
+.profile-background {
+  border-color: silver;
+  border-width: 7px;
+  border-style: solid;
+  border-radius: 8px;
+}
+.smaller-image {
+  width: 200px;
+}
+.black-background {
+  background-color: black;
+}
+.para-font {
+  font-size: 20px;
+}
